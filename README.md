@@ -35,7 +35,3 @@ Para más información y recursos sobre SQL, visita los siguientes enlaces:
 - [Documentación Oficial de MySQL](https://dev.mysql.com/doc/)
 - [Documentación Oficial de PostgreSQL](https://www.postgresql.org/docs/)
 
-## Autor
----
-- **Daniel** - *Desarrollador* - [GitHub](https://github.com/Trufoplus)
-
