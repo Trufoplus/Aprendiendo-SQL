@@ -1,14 +1,12 @@
 <h1 align="center"> APRENDIENDO SQL</h1>
 
-
 ## Descripción y contexto
 ---
 Este repositorio está dedicado a documentar mi aprendizaje en SQL. El objetivo es tener un lugar donde pueda consultar mis dudas de manera rápida y sencilla usando mis propios apuntes. Aquí encontrarás desde conceptos básicos hasta consultas avanzadas, con ejemplos prácticos y explicaciones detalladas.
 
-## Tabla de contenidos:
+## Tabla de contenidos
 ---
-
-En construccion...
+En construcción...
 
 ## Guía de usuario
 ---
@@ -40,3 +38,4 @@ Para más información y recursos sobre SQL, visita los siguientes enlaces:
 ## Autor
 ---
 - **Daniel** - *Desarrollador* - [GitHub](https://github.com/Trufoplus)
+
