@@ -32,7 +32,9 @@ En esta sección se explica cómo utilizar el contenido de este repositorio para
 Para más información y recursos sobre SQL, visita los siguientes enlaces:
 
 - [Curso SQL de Mouredev](https://github.com/mouredev/hello-sql)
+- [w3schools aprende las bases de SQL](https://www.w3schools.com/sql/default.asp)
+- [Descarga MySQL](https://dev.mysql.com/downloads/mysql/)
 - [Documentación Oficial de MySQL](https://dev.mysql.com/doc/)
 - [Documentación Oficial de PostgreSQL](https://www.postgresql.org/docs/)
-- [w3schools aprende las bases de sql](https://www.w3schools.com/sql/default.asp)
+
 
